@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id LinearLayout1
+id btnaccessbookmarks
+id btnaccesscalllog
+id btnback
+id btnmediastore
+id btnshowallmessage
+id listView1
+id menu_settings
+id textView
+layout activity_main
+layout activity_show_all_message
+menu activity_main
+menu activity_show_all_message
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_world
+string menu_settings
+string title_activity_show_all_contact
+style AppTheme
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
